@@ -1,6 +1,6 @@
 {
   "name": "input-mask",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "How to create mask to your inputs",
   "main": "index.js",
   "scripts": {
